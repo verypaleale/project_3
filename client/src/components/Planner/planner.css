@@ -1,0 +1,18 @@
+.makeStyles-root-420 > * {
+    width: 18ch !important;
+}
+
+.eventPageGrid {
+    text-align: center;
+}
+
+
+.event-grid {
+    background-color:  #e5e5e0;
+    border: 1px solid grey;
+    width: 75% !important;
+    border-radius: 5px;
+    box-shadow: 1px 2px 5px 2px grey;
+    margin-top: 50% !important;
+    margin: auto !important;
+}

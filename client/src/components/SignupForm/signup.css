@@ -1,0 +1,33 @@
+
+/*.login-link directs user to login page*/
+.signup-main {
+    background-image: url('/images/everdell-bright.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signup-frame {
+    background-color: #fdf3db;
+    border: 2px solid #a3a14e;
+    border-radius: 10px;
+    text-align: center;
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    position: relative;
+}
+
+.signup-h2 {
+    color: #e78a47;
+}
+
+.login-link {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+
+/* to change hyperlinks, see index.css */

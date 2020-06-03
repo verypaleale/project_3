@@ -1,0 +1,25 @@
+#appBar {
+    margin: 20px;
+}
+
+.MuiToolbar-root {
+    background-color: rgb(234, 232, 232) !important;
+}
+
+.logo-two {
+    width: 30%;
+}
+
+/* current user name */
+.MuiTypography-root {
+    font-size: 12px !important;
+    width: 70%;
+}
+
+h6 {
+    color: black;
+}
+
+.MuiAppBar-colorPrimary {
+    color:black !important;
+}

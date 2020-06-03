@@ -1,0 +1,27 @@
+#srch-friend {
+    background-color: #c6dbc8;
+    width: 75%;
+    opacity: 0.9;
+    margin: auto;
+}
+
+#srch-friend-li {
+    text-align: center;
+    color: black;
+    font-family:'Poppins', Arial, sans-serif; 
+    font-size: 24px;
+    list-style: none;
+    border-radius: 2rem;
+    margin: 1rem auto;
+}
+
+#srch-friend-title {
+    color: #c75535;
+    text-align: center;
+}
+
+#add-friend {
+    margin-left: 2rem;
+} 
+
+
